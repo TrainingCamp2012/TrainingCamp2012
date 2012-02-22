@@ -1,6 +1,6 @@
 今年の合宿関連の情報をまとめます。主に[wikiのほうに](https://github.com/TrainingCamp2012/TrainingCamp2012/wiki)情報をまとめていきましょう。
 
-今年度の合宿は2/24-2/26の二泊三日で、[土善旅館](http://www3.ocn.ne.jp/~dozen/)になりました。楽しみましょう!!1
+今年度の合宿は2/24-2/26の二泊三日で、[土善旅館](http://www3.ocn.ne.jp/~dozen/)(合宿用のページは[ここ](https://github.com/TrainingCamp2012/TrainingCamp2012/wiki/土善旅館))になりました。楽しみましょう!!1
 
 ## スケジュール
 1日目から参加する組(syou6162、wakuteka、yag_ays、twittoru)は
