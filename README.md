@@ -2,9 +2,6 @@
 
 今年度の合宿は2/24-2/26の二泊三日で、[土善旅館](http://www3.ocn.ne.jp/~dozen/)になりました。楽しみましょう!!1
 
-## リポジトリの作り方
-Githubの[organization](https://github.com/blog/674-introducing-organizations)という機能を使っていますが、普通と同じようにリポジトリを作っていくことができます([ここ](https://github.com/organizations/TrainingCamp2012/repositories/new)から作れます)。合宿前になったら各自自分のやりたいプロジェクトのリポジトリを作ってください。
-
 ## スケジュール
 1日目から参加する組(syou6162、wakuteka、yag_ays、twittoru)は
 
@@ -16,3 +13,6 @@ Githubの[organization](https://github.com/blog/674-introducing-organizations)�
 
 ## お金関係
 [ここ](https://github.com/TrainingCamp2012/TrainingCamp2012/issues/5)にまとめておきました。端数はsyou6162へ募金されます(ぇ。
+
+## リポジトリの作り方
+Githubの[organization](https://github.com/blog/674-introducing-organizations)という機能を使っていますが、普通と同じようにリポジトリを作っていくことができます([ここ](https://github.com/organizations/TrainingCamp2012/repositories/new)から作れます)。合宿前になったら各自自分のやりたいプロジェクトのリポジトリを作ってください。
