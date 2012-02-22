@@ -15,4 +15,4 @@ Githubの[organization](https://github.com/blog/674-introducing-organizations)�
 でで行く予定です。1日目夜から参加のybenjoと2日目から参加のiNutは何時くらいに宿に付きそうか分かったら連絡しといてもらえると助かります(ご飯待ったほうがいいかとか分かるので)。
 
 ## お金関係
-(ここ)[https://github.com/TrainingCamp2012/TrainingCamp2012/issues/5]にまとめておきました。端数はsyou6162へ募金されます(ぇ。
+[ここ](https://github.com/TrainingCamp2012/TrainingCamp2012/issues/5)にまとめておきました。端数はsyou6162へ募金されます(ぇ。
