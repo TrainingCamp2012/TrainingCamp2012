@@ -15,4 +15,9 @@
 [ここ](https://github.com/TrainingCamp2012/TrainingCamp2012/issues/5)にまとめておきました。端数はsyou6162へ募金されます(ぇ。
 
 ## リポジトリの作り方
-Githubの[organization](https://github.com/blog/674-introducing-organizations)という機能を使っていますが、普通と同じようにリポジトリを作っていくことができます([ここ](https://github.com/organizations/TrainingCamp2012/repositories/new)から作れます)。合宿前になったら各自自分のやりたいプロジェクトのリポジトリを作ってください。
+Githubの[organization](https://github.com/blog/674-introducing-organizations)という機能を使っていますが、普通と同じようにリポジトリを作っていくことができます([ここ](https://github.com/organizations/TrainingCamp2012/repositories/new)から作れます)。合宿前になったら各自自分のやりたいプロジェクトのリポジトリを作ってください。以下、各位のリポジトリへのリンク。
+
+- [syou6162](https://github.com/TrainingCamp2012/TinyWordSegmenter)
+- [ybenjo](https://github.com/TrainingCamp2012/seiyu_prediction)
+- [twittoru](https://github.com/TrainingCamp2012/p5-OreOre-Readtwit)
+- [wakuteka](https://github.com/TrainingCamp2012/CharacterLookupper)
